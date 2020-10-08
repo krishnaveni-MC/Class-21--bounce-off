@@ -1,2 +1,2 @@
-# Class-21--bounce-off
-Bounceoff
+# collisionAlgorithm
+Algorithm to detect collision between two objects
